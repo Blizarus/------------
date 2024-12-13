@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ba4cb7c665dcf5d",
+            "id": "8efebc1ea29f28cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекция 5 Тестовая документация.md",
+                "file": "Лекция 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 5 Тестовая документация"
-            }
-          },
-          {
-            "id": "17f048ec5a77ac99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекция 5 Тестовая документация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 5 Тестовая документация"
-            }
-          },
-          {
-            "id": "197db1f51a8a3f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекция 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 7"
+              "title": "Лекция 10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -388,6 +359,66 @@
             "id": "19645f2e7c7463f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "e3efd04eea689315",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "fc361649f85fc67c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "07bfff9563339bfc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "9afc3e2d9e088ff6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "8678c5a0c920db21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "1b36416ffdd659de",
+            "type": "leaf",
+            "state": {
               "type": "BC-matrix",
               "state": {},
               "icon": "BC-trail-icon",
@@ -395,7 +426,7 @@
             }
           },
           {
-            "id": "e3efd04eea689315",
+            "id": "9960e9d4f66bc476",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -405,7 +436,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 32
       }
     ],
     "direction": "horizontal",
@@ -423,35 +454,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e3efd04eea689315",
+  "active": "8efebc1ea29f28cf",
   "lastOpenFiles": [
+    "Лекция 7.md",
+    "Лекция 10.md",
+    "Лекция 6 Дефекты. Отчет о дефекте..md",
+    "Лекция 9 Оценка трудозатрат.md",
+    "Лекция 5 Тестовая документация.md",
+    "Лекция 8 Системы управления дефектами.md",
+    "Картинки/Pasted image 20241115140333.png",
+    "Лекция 5 (Примеры чек-листов).md",
+    "Лекция 5 (Шаблон плана тестирования).md",
+    "Лекция 4 Техника тестирования ПО.md",
     "Картинки/Pasted image 20241129144543.png",
     "Картинки/Pasted image 20241129143811.png",
     "Картинки/Pasted image 20241129143056.png",
-    "Лекция 6 Дефекты. Отчет о дефекте..md",
-    "Лекция 5 Тестовая документация.md",
-    "Лекция 5 (Шаблон плана тестирования).md",
-    "Лекция 5 (Примеры чек-листов).md",
     "Причины возникновения ошибок.md",
     "Тестирование ПО.md",
     "Уровень бизнес-требований.md",
     "Уровень пользовательских требований.md",
     "Уровень продуктных требований.md",
     "Причины появления дефектов в программном коде.md",
-    "Лекция 7.md",
-    "Лекция 4 Техника тестирования ПО.md",
     "Лекция по тестированию.md",
     "Картинки/Pasted image 20241115144049.png",
     "Картинки/Pasted image 20241115143740.png",
     "Картинки/Pasted image 20241115142421.png",
     "Картинки/Pasted image 20241115142143.png",
     "Картинки/Pasted image 20241115140400.png",
-    "Картинки/Pasted image 20241115140333.png",
     "Картинки/Pasted image 20241115140305.png",
     "Принципы тестирования.md",
     "Документация и требования. Техники тестирования требований.md",
     "Цели тестирования.md",
-    "Картинки/Pasted image 20241108144344.png",
     "Характеристики тестирования.md",
     "Пример.md",
     "Источники и пути выявления требований.md",
